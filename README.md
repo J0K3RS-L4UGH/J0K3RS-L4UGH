@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!-- [![J0K3RS-L4UGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0K3RS-L4UGH)](https://github.com/anuraghazra/github-readme-stats) -->
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=J0K3RS-L4UGH&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> <style>const STARS_OFFSET = 0.75;<\style> </p>
+[![J0K3RS-L4UGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0K3RS-L4UGH&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on a secret
 - 🌱 I’m currently learning HTML, CSS & JS
